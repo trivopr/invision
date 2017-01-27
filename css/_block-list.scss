@@ -1,0 +1,30 @@
+.block-list {
+	ul {
+		list-style: none;
+		padding: 0 15px;
+
+		li {
+			font-size: 14px;
+			line-height: 1.4;
+			color: $darkgrey;
+			position: relative;
+			padding-left: 15px;
+			margin-bottom: 10px;
+
+			span {
+				color: $darkgrey;
+				position: absolute;
+				left: -15px;
+				font-size: 18px;
+			}
+
+			&.is-opening {
+				color: $green;
+
+				span {
+					color: $green;
+				}
+			}
+		}
+	}
+}

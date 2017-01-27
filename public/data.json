@@ -1,0 +1,201 @@
+[{
+  "id": 1,
+  "logo": "http://dummyimage.com/100x100.jpg/5fa2dd/ffffff",
+  "companyName": "Flashdog",
+  "opening": "Legal",
+  "isOpening": false,
+  "description1": "TRICLOSAN",
+  "description2": "Zinc Oxide and Titanium Dioxide",
+  "description3": "Cyclobenzaprine Hydrochloride",
+  "description4": "Aluminum Chlorohydrate"
+}, {
+  "id": 2,
+  "logo": "http://dummyimage.com/100x100.bmp/dddddd/000000",
+  "companyName": "Yozio",
+  "opening": "Services",
+  "isOpening": false,
+  "description1": "gadoversetamide",
+  "description2": "TITANIUM DIOXIDE",
+  "description3": "Triclosan",
+  "description4": "Venlafaxine Hydrochloride"
+}, {
+  "id": 3,
+  "logo": "http://dummyimage.com/100x100.png/5fa2dd/ffffff",
+  "companyName": "Pixoboo",
+  "opening": "Training",
+  "isOpening": false,
+  "description1": "Hydroquinone",
+  "description2": "Anticoagulant Citrate Phosphate Dextrose",
+  "description3": "METOPROLOL SUCCINATE",
+  "description4": "Indomethacin"
+}, {
+  "id": 4,
+  "logo": "http://dummyimage.com/100x100.png/dddddd/000000",
+  "companyName": "Viva",
+  "opening": "Research and Development",
+  "isOpening": true,
+  "description1": "Omeprazole",
+  "description2": "calcitriol",
+  "description3": "PIPERACILLIN and TAZOBACTAM",
+  "description4": "Sweetgum"
+}, {
+  "id": 5,
+  "logo": "http://dummyimage.com/100x100.bmp/cc0000/ffffff",
+  "companyName": "Meetz",
+  "opening": "Research and Development",
+  "isOpening": false,
+  "description1": "Carbidopa and Levodopa",
+  "description2": "Azithromycin",
+  "description3": "hydrocodone bitartrate and acetaminophen",
+  "description4": "Pyrithione Zinc"
+}, {
+  "id": 6,
+  "logo": "http://dummyimage.com/100x100.jpg/cc0000/ffffff",
+  "companyName": "Dynabox",
+  "opening": "Engineering",
+  "isOpening": true,
+  "description1": "Anticoagulant Citrate Phosphate Dextrose",
+  "description2": "Solution and ADSOL Preservation Solution",
+  "description3": "Wild Oat",
+  "description4": "Ciprofloxacin"
+}, {
+  "id": 7,
+  "logo": "http://dummyimage.com/100x100.jpg/cc0000/ffffff",
+  "companyName": "Mybuzz",
+  "opening": "Engineering",
+  "isOpening": false,
+  "description1": "Naproxen Sodium",
+  "description2": "Diclofenac Sodium",
+  "description3": "Trace Elements 4",
+  "description4": "Clotrimazole"
+}, {
+  "id": 8,
+  "logo": "http://dummyimage.com/100x100.bmp/dddddd/000000",
+  "companyName": "Zoonder",
+  "opening": "Legal",
+  "isOpening": false,
+  "description1": "Leucovorin Calcium",
+  "description2": "sulfacetamide sodium",
+  "description3": "Zinc Acetate",
+  "description4": "eucalyptol, menthol, methyl salicylate, thymol"
+}, {
+  "id": 9,
+  "logo": "http://dummyimage.com/100x100.jpg/dddddd/000000",
+  "companyName": "DabZ",
+  "opening": "Services",
+  "isOpening": true,
+  "description1": "ALLANTOIN",
+  "description2": "Collagen 6 Special Order",
+  "description3": "OCTINOXATE",
+  "description4": "Zinc Oxide"
+}, {
+  "id": 10,
+  "logo": "http://dummyimage.com/100x100.jpg/ff4444/ffffff",
+  "companyName": "Meedoo",
+  "opening": "Engineering",
+  "isOpening": true,
+  "description1": "Fluticasone Propionate",
+  "description2": "Nicotine Polacrilex",
+  "description3": "Honeydew Melon",
+  "description4": "Meclizine HCl"
+}, {
+  "id": 11,
+  "logo": "http://dummyimage.com/100x100.jpg/5fa2dd/ffffff",
+  "companyName": "Rhyloo",
+  "opening": "Business Development",
+  "isOpening": false,
+  "description1": "Glipizide",
+  "description2": "TITANIUM DIOXIDE",
+  "description3": "Lycopodium Berberis",
+  "description4": "Red Oak"
+}, {
+  "id": 12,
+  "logo": "http://dummyimage.com/100x100.png/5fa2dd/ffffff",
+  "companyName": "Tagfeed",
+  "opening": "Sales",
+  "isOpening": false,
+  "description1": "oseltamivir phosphate",
+  "description2": "CALCAREA FLUORICA",
+  "description3": "LIDOCAINE HYDROCHLORIDE ANHYDROUS",
+  "description4": "Avena Sativa, Carduus Marianus, Damiana, Galium Aparine"
+}, {
+  "id": 13,
+  "logo": "http://dummyimage.com/100x100.jpg/ff4444/ffffff",
+  "companyName": "Eabox",
+  "opening": "Services",
+  "isOpening": false,
+  "description1": "Aconite 30c, Antimonium Tart 30c, Belladonna 30c, Bromium 30c",
+  "description2": "TOLNAFTATE",
+  "description3": "Oxygen",
+  "description4": "Hepatitis B Vaccine (Recombinant)"
+}, {
+  "id": 14,
+  "logo": "http://dummyimage.com/100x100.png/dddddd/000000",
+  "companyName": "Cogilith",
+  "opening": "Research and Development",
+  "isOpening": false,
+  "description1": "BISMUTH SUBSALICYLATE",
+  "description2": "LIDOCAINE HYDROCHLORIDE",
+  "description3": "dibasic sodium phosphate, monobasic sodium phosphate",
+  "description4": "Avobenzone, Octinoxate, Octisalate, Oxybenzone"
+}, {
+  "id": 15,
+  "logo": "http://dummyimage.com/100x100.png/dddddd/000000",
+  "companyName": "Mynte",
+  "opening": "Marketing",
+  "isOpening": true,
+  "description1": "String Bean Mix",
+  "description2": "OCTOCRYLENE AVOBENZONE OCTISALATE",
+  "description3": "Warfarin Sodium",
+  "description4": "SUMATRIPTAN"
+}, {
+  "id": 16,
+  "logo": "http://dummyimage.com/100x100.bmp/cc0000/ffffff",
+  "companyName": "Skibox",
+  "opening": "Accounting",
+  "isOpening": false,
+  "description1": "Capsaicin, Menthol",
+  "description2": "Ibuprofen",
+  "description3": "Benzalkonium Chloride",
+  "description4": "BACLOFEN"
+}, {
+  "id": 17,
+  "logo": "http://dummyimage.com/100x100.png/cc0000/ffffff",
+  "companyName": "Topdrive",
+  "opening": "Research and Development",
+  "isOpening": false,
+  "description1": "capsaicin",
+  "description2": "Salicylic Acid",
+  "description3": "DIMETHICONE",
+  "description4": "Thyroidinum"
+}, {
+  "id": 18,
+  "logo": "http://dummyimage.com/100x100.bmp/dddddd/000000",
+  "companyName": "Roombo",
+  "opening": "Product Management",
+  "isOpening": true,
+  "description1": "Bacitracin Zinc and Polymyxin B Sulfate",
+  "description2": "ephedrine hydrochloride, guaifenesin",
+  "description3": "Pyrithione Zinc",
+  "description4": "MENTHOL, METHYL SALICYLATE"
+}, {
+  "id": 19,
+  "logo": "http://dummyimage.com/100x100.bmp/cc0000/ffffff",
+  "companyName": "Mydeo",
+  "opening": "Training",
+  "isOpening": false,
+  "description1": "Tramadol Hydrochloride",
+  "description2": "ALCOHOL",
+  "description3": "Metronidazole",
+  "description4": "DAPAGLIFLOZIN"
+}, {
+  "id": 20,
+  "logo": "http://dummyimage.com/100x100.png/ff4444/ffffff",
+  "companyName": "Flipstorm",
+  "opening": "Services",
+  "isOpening": true,
+  "description1": "glimepiride",
+  "description2": "citalopram hydrobromide",
+  "description3": "TITANIUM DIOXIDE",
+  "description4": "Arnica montana, Avena sativa, Cantharis, Chamomilla,"
+}]

@@ -1,0 +1,15 @@
+footer {
+	color: red;
+}.news__title {
+  color: blue;
+  font-size: 4rem;
+  margin-bottom: 10px;
+  transition: all ease-out-in .4s;
+  text-shadow: hoff voff blur #000; }
+  .news__title:hover {
+    color: green;
+    transition: all ease-in-out .4s;
+    cursor: pointer; }
+
+.news__content {
+  color: #3d3d3d; }

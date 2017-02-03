@@ -126,10 +126,9 @@
 
 .wrapper-grid {
 	display: flex;
-	// @include justify-content('space-around');
 	-webkit-flex-flow: row wrap;
 	flex-flow: row wrap;
-	justify-content: space-between;
+	justify-content: space-around;
 	background: $dark-white;
 }
 
@@ -219,17 +218,11 @@
 
 @media (min-width: $screen-sm-min) {
 
-	.wrapper-grid {
-		justify-content: space-around;
-	}
-
 }
 
 
 @media (min-width: $screen-md-min) {
-	.wrapper-grid {
-		justify-content: space-between;
-	}	
+
 }
 
 

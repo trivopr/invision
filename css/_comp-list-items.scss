@@ -128,7 +128,7 @@
 	display: flex;
 	-webkit-flex-flow: row wrap;
 	flex-flow: row wrap;
-	justify-content: space-around;
+	justify-content: center;
 	background: $dark-white;
 }
 
@@ -143,6 +143,7 @@
 	height: auto;
 	background: $white;
 	margin-bottom: 20px;
+	margin-right: 20px;
 	padding: 20px;
 
 	&__logo {
@@ -221,14 +222,10 @@
 }
 
 
+// Medium screen / desktop
 @media (min-width: $screen-md-min) {
 
 }
-
-
-// Medium screen / desktop
-
-
 
 
 // Large screen / wide desktop
@@ -236,4 +233,16 @@
 	.container-fluid {
 		max-width: 1210px;
 	}
+
+}
+
+// Large screen / wide desktop From Custom Size
+@media (min-width: 1210px) {
+	.grid-result-item {
+		margin-right: 20px;
+
+		&:nth-child(4n) {
+			margin-right: 0;
+		}
+	}	
 }

@@ -28,9 +28,7 @@ module.exports = {
     contentBase: 'public'
   },
 
-  devtool: {
-    'eval': true
-  },
+  devtool: 'eval-source-map',
 
   module: {
     loaders: [

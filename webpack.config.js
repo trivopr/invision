@@ -28,6 +28,10 @@ module.exports = {
     contentBase: 'public'
   },
 
+  devtool: {
+    'eval': true
+  },
+
   module: {
     loaders: [
 
@@ -51,7 +55,7 @@ module.exports = {
 
       {
         test: /\.(js|es6)$/,
-        include:  __dirname + '/app/js',
+        include:  __dirname + '/js',
         loader: 'babel?presets[]=es2015'
       }
     ]

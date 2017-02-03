@@ -15,7 +15,7 @@ class MainSearchResult extends React.Component {
 		super(props);
 		this.state = {
 			title: 'Invision',
-			isGrid: true,
+			isGrid: false,
 			isBlock: true,
 			listResultItems: [],
 		}
